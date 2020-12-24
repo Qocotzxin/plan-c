@@ -11,9 +11,9 @@
 
 # Levantarlo localmente.
 
-`git clone https://github.com/Qocotzxin/plan-c.git`
-`cd plan-c`
-`npm i`
-`npm run dev`
-Para utilizar como SPA correr:
-`npm start`
+- `git clone https://github.com/Qocotzxin/plan-c.git`
+- `cd plan-c`
+- `npm i`
+- `npm run dev`
+- Para utilizar como SPA correr:
+- `npm start`
